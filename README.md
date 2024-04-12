@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Pradeep Chandrabose
-- 👀 I’m interested in [ Web Developer & UI Desginer ]
-- 🌱 I’m currently learning [ Full Stack Web Developer ] course 
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning [ Computer Programming ] course at Conestoga College, Waterloo, Ontario, Canada 
 - 📫 How to reach me bosepradeep45@gmail.com
 
 <!---
