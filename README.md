@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Pradeep Chandrabose
-- 🌱 I’m currently learning [ Computer Programming ] course at Conestoga College, Waterloo, Ontario, Canada 
 - 📫 How to reach me bosepradeep45@gmail.com
 
 <!---
